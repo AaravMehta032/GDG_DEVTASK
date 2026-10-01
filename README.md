@@ -9,4 +9,5 @@ The program has 4 main functionalities:
 The program automatically creates and updates a urls.json file, which stores the original URLs and their assigned codes.
 
 The base URL used by the shortener is: https://sho.rt/
+
 Each URL is assigned a unique alphanumeric code, which is appended to the base URL to create the shortened URL.
